@@ -14,7 +14,7 @@ Extent Reports
 
 ### Steps to clone execute the tests
 ```
-git clone https://github.com/naveenanimation20/PageObjectModel
+git clone https://github.com/SivAlka/SeleniumTestNG
 cd PageObjectModel
 mvn clean test
 ```
